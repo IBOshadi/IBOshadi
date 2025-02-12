@@ -1,11 +1,17 @@
 # Hi there 👋
 
 ![Views](https://komarev.com/ghpvc/?username=IBOshadi&color=brightgreen)  
+
 ![Forks](https://img.shields.io/github/forks/IBOshadi/YourRepo?style=social)  
+
 ![Stars](https://img.shields.io/github/stars/IBOshadi/YourRepo?style=social)  
-![Repo Size](https://img.shields.io/github/repo-size/IBOshadi/YourRepo?color=purple)  
+
+![Repo Size](https://img.shields.io/github/repo-size/IBOshadi/YourRepo?color=purple) 
+
 ![License](https://img.shields.io/github/license/IBOshadi/YourRepo)  
+
 ![Author](https://img.shields.io/badge/Author-Oshadi%20Irugalbandara-purple)  
+
 
 ## ✨ Hey, I'm Oshadi Irugalbandara
 
